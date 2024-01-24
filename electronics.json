@@ -1,0 +1,104 @@
+{
+  "category": "3",
+  "products": [
+    {
+      "ID": "e01",
+      "name": "USB Drive",
+      "type": "hard",
+      "price": 1200,
+      "discount": "10%",
+      "currency": "rs",
+      "inventory": 200
+    },
+    {
+      "ID": "e02",
+      "name": "clock",
+      "type": "Delicate",
+      "price": 600,
+      "discount": "10%",
+      "currency": "rs",
+      "inventory": 150
+    },
+    {
+      "ID": "e03",
+      "name": "printer",
+      "type": "hard",
+      "price": 15000,
+      "discount": "20%",
+      "currency": "rs",
+      "inventory": 40
+    },
+    {
+      "ID": "e04",
+      "name": "smart watch",
+      "type": "Delicate",
+      "price": 3000,
+      "discount": "20%",
+      "currency": "rs",
+      "inventory": 300
+    },
+    {
+      "name": "Bar Light1",
+      "type": "delicates",
+      "price": 800,
+      "discount": 10,
+      "currency": "rs",
+      "inventory": 150,
+      "ID": "1cvcg1fc0lrrm4kbr"
+    },
+    {
+      "ID": "e06",
+      "name": "switch board",
+      "type": "hard",
+      "price": 500,
+      "discount": "7%",
+      "currency": "rs",
+      "inventory": 100
+    },
+    {
+      "ID": "e07",
+      "name": "Laptop",
+      "type": "Delicate",
+      "price": 55000,
+      "discount": "30%",
+      "currency": "rs",
+      "inventory": 180
+    },
+    {
+      "ID": "e08",
+      "name": "speakers",
+      "type": "hard",
+      "price": 8000,
+      "discount": "25%",
+      "currency": "rs",
+      "inventory": 250
+    },
+    {
+      "ID": "e09",
+      "name": "Refrigirator",
+      "type": "delicate",
+      "price": 30000,
+      "discount": "30%",
+      "currency": "rs",
+      "inventory": 300
+    },
+    {
+      "ID": "e10",
+      "name": "micro oven",
+      "type": "hard",
+      "price": 1200,
+      "discount": "15%",
+      "currency": "rs",
+      "inventory": 90
+    },
+    {
+      "ID": "1cvcg253dlrroe4n2",
+      "name": "router",
+      "type": "hard",
+      "price": 2000,
+      "discount": 10,
+      "currency": "rs",
+      "inventory": 100
+    }
+  ]
+}
