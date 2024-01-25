@@ -1,0 +1,95 @@
+{
+  "category": "1",
+  "products": [
+    {
+      "ID": "b02",
+      "name": "the little prince",
+      "type": "fictional",
+      "price": 300,
+      "discount": "10%",
+      "currency": "rs",
+      "inventory": 10
+    },
+    {
+      "ID": "b03",
+      "name": "Bedlime fairytales",
+      "type": "kids stories",
+      "price": 250,
+      "discount": "7%",
+      "currency": "rs",
+      "inventory": 12
+    },
+    {
+      "ID": "b04",
+      "name": "ugly ducking",
+      "type": "poetry",
+      "price": 150,
+      "discount": "10%",
+      "currency": "rs",
+      "inventory": 15
+    },
+    {
+      "ID": "b05",
+      "name": "Jungle Book1",
+      "type": "fictional",
+      "price": 200,
+      "discount": 10,
+      "currency": "rs",
+      "inventory": 50
+    },
+    {
+      "ID": "b06",
+      "name": "Adventorous stories",
+      "type": "book",
+      "price": 250,
+      "discount": "2%",
+      "currency": "rs",
+      "inventory": 15
+    },
+    {
+      "ID": "b07",
+      "name": "charlotte's web",
+      "type": "kids stories",
+      "price": 150,
+      "discount": "10%",
+      "currency": "rs",
+      "inventory": 15
+    },
+    {
+      "ID": "b08",
+      "name": "God's Library",
+      "type": "non fictional",
+      "price": 600,
+      "discount": "20%",
+      "currency": "rs",
+      "inventory": 5
+    },
+    {
+      "ID": "b09",
+      "name": "Ruskin Bond",
+      "type": "horror",
+      "price": 300,
+      "discount": "5%",
+      "currency": "rs",
+      "inventory": 8
+    },
+    {
+      "ID": "b10",
+      "name": "Black Forest",
+      "type": "horror",
+      "price": 450,
+      "discount": "8%",
+      "currency": "rs",
+      "inventory": 20
+    },
+    {
+      "ID": "1cvcg1ianlrrmazh5",
+      "name": "Wild Life",
+      "type": "story",
+      "price": 270,
+      "discount": 12,
+      "currency": "rs",
+      "inventory": 15
+    }
+  ]
+}

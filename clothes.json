@@ -1,0 +1,95 @@
+{
+  "category": "2",
+  "products": [
+    {
+      "ID": "c01",
+      "name": "banaras",
+      "type": "saree",
+      "price": 1000,
+      "discount": "10%",
+      "currency": "rs",
+      "inventory": 80
+    },
+    {
+      "ID": "c02",
+      "name": "ghagra",
+      "type": "half-saree",
+      "price": 1500,
+      "discount": "20%",
+      "currency": "rs",
+      "inventory": 100
+    },
+    {
+      "ID": "c03",
+      "name": "crop tops",
+      "type": "western",
+      "price": 600,
+      "discount": "5%",
+      "currency": "rs",
+      "inventory": 200
+    },
+    {
+      "ID": "c04",
+      "name": "chudidhar tops",
+      "type": "kurta",
+      "price": 1000,
+      "discount": "10%",
+      "currency": "rs",
+      "inventory": 150
+    },
+    {
+      "ID": "c05",
+      "name": " Barbie frocks",
+      "type": "frock type",
+      "price": 1500,
+      "discount": "15%",
+      "currency": "rs",
+      "inventory": 80
+    },
+    {
+      "ID": "c06",
+      "name": "pavda",
+      "type": "half-saree",
+      "price": 2500,
+      "discount": "25%",
+      "currency": "rs",
+      "inventory": 60
+    },
+    {
+      "ID": "c07",
+      "name": "palazo",
+      "type": "kurta",
+      "price": 1600,
+      "discount": "20%",
+      "currency": "rs",
+      "inventory": 120
+    },
+    {
+      "ID": "c08",
+      "name": "jeans",
+      "type": "jeans",
+      "price": 1200,
+      "discount": "10%",
+      "currency": "rs",
+      "inventory": 200
+    },
+    {
+      "ID": "c09",
+      "name": "tissue sarees",
+      "type": "saree",
+      "price": 2500,
+      "discount": "15%",
+      "currency": "rs",
+      "inventory": 150
+    },
+    {
+      "ID": "c10",
+      "name": "kurta",
+      "type": "kurta",
+      "price": 1500,
+      "discount": "20%",
+      "currency": "rs",
+      "inventory": 100
+    }
+  ]
+}
